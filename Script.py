@@ -29,7 +29,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 ‣ ‣ᴜᴘɪ ɪᴅ : kranthi2224@fam
 
-‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href='http://t.me/Daemon990'>DAEMON</a> 
+‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href='http://t.me/TMA18_Admin_Bot'>ADMIN</a> 
 
          » Qʀ ᴄᴏᴅᴇ ᴀʟꜱᴏ ᴀᴠᴀɪʟᴀʙᴇ ɪɴ ᴀʙᴏᴠᴇ ɪᴍᴀɢᴇ «
 
