@@ -1,11 +1,7 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ʙᴜᴅᴅʏ  TMA SEARCH BOT 🥷,【ɪᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ+└ᴀᴡᴇꜱᴏᴍᴇ ꜰɪʟᴛᴇʀ┘+├ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ┤+☞ᴍᴀɴᴜᴀʟ ꜰɪᴛᴇʀ☜ ᴀɴᴅ ᢵᴄᴜꜱᴛᴏᴍɪᴢᴇᴅ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ😍
+    START_TXT = """<b>Hᴇʟʟᴏ {},❤️‍🔥ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot And I can provide Advanced Online Watching and Fast Download links But No Theatre Prints available in my database So, Dont Search for Theatre Prints 😐 
 
-ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ 👇
-
-ᴡᴇ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴀᴅꜱ ꜰʀᴇᴇ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴄʟɪᴄᴋ ᴀᴅꜱ ꜰʀᴇᴇ ᴍᴏᴠɪᴇ ʙᴜᴛᴛᴏɴ
-
-ᴅᴏɴᴇ 🆗</b>"""
+MAINTAIN BY : @Telugu_Moviez_Addaa18</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
