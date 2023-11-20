@@ -17,4 +17,4 @@
 * [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Daemon990)
 
 #Thanks To My Friend 
-[CULPRIT](https://github.com/kalai011/Naruto)
+[DAEMON](https://telegram.me/Daemon990)
