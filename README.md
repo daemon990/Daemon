@@ -1,7 +1,7 @@
 <img src="https://graph.org/file/f3782d62b29682c19870b.jpg" alt="TeluguZone-filter-bot Logo">
 </p>
 <h1 align="center">
-  TELUGU ZONE
+  TMA
 </h1>
 
 
