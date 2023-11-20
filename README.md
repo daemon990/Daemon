@@ -5,7 +5,7 @@
 </h1>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+TELUGUZONE-BOT;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;Powered+ByTELUGUZONE)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+TMA-BOT;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;Powered+ByTELUGUZONE)
 </p>
 
 
