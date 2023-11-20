@@ -1,4 +1,4 @@
-<img src="https://graph.org/file/f3782d62b29682c19870b.jpg" alt="TeluguZone-filter-bot Logo">
+<img src="https://graph.org/file/ec6ccb588c1e9d11c9096.jpg" alt="TMA-filter-bot Logo">
 </p>
 <h1 align="center">
   TMA
