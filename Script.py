@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},❤️‍🔥ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot And I can provide Advanced Online Watching and Fast Download links But No Theatre Prints available in my database So, Dont Search for Theatre Prints 😐 
 
-MAINTAIN BY : @Telugu_Moviez_Addaa18 & @MULTIVERSE_OFCL</b>"""
+MAINTAINED BY : @MULTIVERSE_OFCL</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
