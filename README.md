@@ -9,7 +9,7 @@
 </p>
 
 
-<b>JOIN MY UPDATES CHANNEL  <a href='https://telegram.me/TeluguZone0'>𝙐𝙋𝘿𝘼𝙏𝙀𝙎 𝘾𝙃𝘼𝙉𝙉𝙀𝙇</a></b>
+<b>JOIN MY UPDATES CHANNEL  <a href='>𝙐𝙋𝘿𝘼𝙏𝙀𝙎 𝘾𝙃𝘼𝙉𝙉𝙀𝙇</a></b>
 
 
 ## Note 🏷️
@@ -17,4 +17,3 @@
 * [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Daemon990)
 
 #Thanks To My Friend 
-[DAEMON](https://telegram.me/Daemon990)
